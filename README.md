@@ -15,3 +15,9 @@
 |[Attention-based Group Recommendation](https://arxiv.org/pdf/1804.04327)||||
 |[Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://shichuan.org/hin/topic/Ranking/2018.WSDM%202018%20Recommendation%20in%20Heterogeneous%20Information%20Networks%20Based%20on%20Generalized%20Random%20Walk%20Model%20and%20Bayesian%20Personalized%20Ranking.pdf)|WSDM 2018|||
 
+
+# 通用领域论文
+
+|    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
+| ----------- | ------------------- | ----- | -------|
+|[Zero-Shot Learning Through Cross-Modal Transfer](http://59.80.44.100/papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)|Zero-Shot|||
