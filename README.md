@@ -13,6 +13,5 @@
 |[An Adaptive Aspect Attention Model for Rating Prediction](https://www.comp.nus.edu.sg/~xiangnan/papers/ijcai18-A3NCF.pdf)|IJCAI 2018|[code](https://github.com/hustlingchen/A3NCF)||
 |[Micro Behaviors: A New Perspective in E-commerce Recommender Systems](http://184pc128.csie.ntnu.edu.tw/presentation/18-03-13/Micro%20Behaviors%20A%20New%20Perspective%20in%20Ecommerce%20Recommender%20Systems.pdf)|WSDM 2018|||
 |[Attention-based Group Recommendation](https://arxiv.org/pdf/1804.04327)||||
-|[
-Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://shichuan.org/hin/topic/Ranking/2018.WSDM%202018%20Recommendation%20in%20Heterogeneous%20Information%20Networks%20Based%20on%20Generalized%20Random%20Walk%20Model%20and%20Bayesian%20Personalized%20Ranking.pdf)|WSDM 2018|||
+|[Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking](http://shichuan.org/hin/topic/Ranking/2018.WSDM%202018%20Recommendation%20in%20Heterogeneous%20Information%20Networks%20Based%20on%20Generalized%20Random%20Walk%20Model%20and%20Bayesian%20Personalized%20Ranking.pdf)|WSDM 2018|||
 
