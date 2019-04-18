@@ -22,3 +22,9 @@
 |    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
 | ----------- | ------------------- | ----- | -------|
 |[Zero-Shot Learning Through Cross-Modal Transfer](http://59.80.44.100/papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)|Zero-Shot||将image映射到一个semantic空间，增加一个指示变量（可以基于异常检测等算法），判断image属于seen还是unseen。对seen的样本建立可监督分类器。对于unseen的样本，将其映射到semantic空间后，通过与label的word vector对比得到结果。文章最关键的核心在于|
+
+
+# Learning To Rank 论文
+|    论文题目    |   关键词＋概述   | 资源路径 | 说明（创新点） |
+| ----------- | ------------------- | ----- | -------|
+|[From RankNet to LambdaRank to LambdaMART: An Overview](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.180.634&rep=rep1&type=pdf)|learning to rank 综述论文|||
